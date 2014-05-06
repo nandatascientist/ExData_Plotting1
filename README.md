@@ -1,4 +1,28 @@
-## Introduction
+# Contents
+
+This repository contains four (4) scripts:
+-plot1.R
+-plot2.R
+-plot3.R
+-plot4.R
+
+All of these scripts assume that the following <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> has been extracted into the working directory of R -.i.e. the text file is present in the current working directory.
+
+The above script files read data from the datafile referenced above, extract readings for two specific dates Feb 1 & Feb 2 2007, and create plots on the extracted data per the assignment instructions. Each of these files can be run in one-shot and will produce the following output files in the working directly respectively:
+
+-plot1.png
+-plot2.png
+-plot3.png
+-plot4.png
+
+A copy of these output plot png files are also included in the repo. These files are all 480x480 pixels in size.
+
+Contents of the readme file from the forked repository follows below....
+
+===================================================================================
+
+
+## Introduction [from original repository]
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
@@ -34,9 +58,6 @@ web site</a>:
 </ol>
 
 ## Loading the data
-
-
-
 
 
 When loading the dataset into R, please consider the following:
